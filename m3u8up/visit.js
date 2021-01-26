@@ -5,6 +5,7 @@
   "name":"M3U8生成器 V1.5.0.exe",
   "load":"0",
   "version": "1.4",
+  "smallver":"2",
   "exit":"stop",
   "md5":"",
   "log": "更新内容：\r\n1.暂无说明\r\n2.暂无说明\r\n",
