@@ -2,7 +2,7 @@
   "downurl": "http://d0.ananas.chaoxing.com/",
   "ref":"http://pan-yz.chaoxing.com/?s=",
   "openurl":"https://pan.baidu.com/",
-  "name":"M3U8生成器 V1.5.0.exe",
+  "name":"M3U8生成器 V1.4.3.exe",
   "load":"0",
   "version": "1.4",
   "smallver":"2",
