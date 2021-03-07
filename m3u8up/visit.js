@@ -3,7 +3,7 @@
   "ref":"http://pan-yz.chaoxing.com/?s=",
   "openurl":"https://i7.meixincdn.com/v1/img/T17KdLB7Dv1RCvBVdK.png",
   "stopurl":"1",
-  "starurl":"1",
+  "starturl":"1",
   "name":"M3U8生成器 V1.4.5.exe",
   "load":"0",
   "version": "1.4",
