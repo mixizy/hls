@@ -78,5 +78,6 @@ www.gygysp.com
 www.gudacc.com
 www.sigetv.com
 www.hzwcms.com
+app.azmzm.com
 localhost
 127.0.0.1
