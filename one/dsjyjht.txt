@@ -79,5 +79,7 @@ www.gudacc.com
 www.sigetv.com
 www.hzwcms.com
 app.azmzm.com
+app.hemavod.com
+www.hemavod.com
 localhost
 127.0.0.1
