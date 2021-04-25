@@ -81,5 +81,7 @@ www.hzwcms.com
 app.azmzm.com
 app.hemavod.com
 www.hemavod.com
+app.haomitv.com
+app.mgtvyun.com
 localhost
 127.0.0.1
