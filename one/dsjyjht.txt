@@ -80,6 +80,7 @@ www.sigetv.com
 www.hzwcms.com
 app.azmzm.com
 app.hemavod.com
+v.hemavod.com
 www.hemavod.com
 app.haomitv.com
 app.mgtvyun.com
