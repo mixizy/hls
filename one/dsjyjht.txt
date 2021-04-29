@@ -85,5 +85,6 @@ www.hemavod.com
 app.haomitv.com
 app.mgtvyun.com
 m.jq100.cc
+seacms.haomitv.com
 localhost
 127.0.0.1
