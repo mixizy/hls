@@ -86,5 +86,6 @@ app.haomitv.com
 app.mgtvyun.com
 m.jq100.cc
 seacms.haomitv.com
+gydytt.com
 localhost
 127.0.0.1
