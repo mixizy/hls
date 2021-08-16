@@ -88,6 +88,9 @@ app.haomitv.com
 app.mgtvyun.com
 m.jq100.cc
 seacms.haomitv.com
+www.918sjw.com
+www.haiantv.cc
+www.wulidy.cc
 gydytt.com
 localhost
 127.0.0.1
